@@ -18,7 +18,7 @@ pwd // 현재 작업위치
 ```
 
 
-#### 이름과 이메일 등록h
+#### 이름과 이메일 등록hsss
 
 ```
 git config --global user.name "사용자명"
