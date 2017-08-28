@@ -92,3 +92,5 @@ git commit -a // 하나 이상의 파일을 commit 설정 할때 add+commit
 ```
 git merge 병합할브랜치명
 ```
+
+가나다라마바사
